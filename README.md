@@ -1,4 +1,4 @@
-# Wurst Client With Meteor Support
+# Wurst Client With Meteor Support 1.18.1 (not maintained)
 
 ## ⚠ Change key binds ⚠
 
